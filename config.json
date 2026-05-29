@@ -1,0 +1,61 @@
+{
+  "profile": {
+    "name": "Alisher Navoiy",
+    "bio": "Dasturchi, Muhandis & Kontent Yaratuvchi. Texnologiyalar va sun'iy intellekt yordamida kelajakni quryapman.",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=400&fit=crop&crop=faces&q=80",
+    "socials": [
+      {
+        "name": "Telegram",
+        "url": "https://t.me/yourusername",
+        "icon": "telegram"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/yourusername",
+        "icon": "github"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://linkedin.com/in/yourusername",
+        "icon": "linkedin"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://youtube.com/yourusername",
+        "icon": "youtube"
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "Mening Shaxsiy Veb-saytim",
+      "url": "https://yourwebsite.com",
+      "icon": "globe",
+      "active": true
+    },
+    {
+      "title": "Yangi Masterklass: Backend darslari",
+      "url": "https://yourcourse.com",
+      "icon": "play-circle",
+      "active": true
+    },
+    {
+      "title": "Telegram Kanalim (Kundalik fikrlar)",
+      "url": "https://t.me/yourchannel",
+      "icon": "send",
+      "active": true
+    },
+    {
+      "title": "Mening Ochiq Kodli Loyihalarim",
+      "url": "https://github.com/yourusername/projects",
+      "icon": "code",
+      "active": true
+    },
+    {
+      "title": "Eski loyihalar arxivi (Noaktiv namuna)",
+      "url": "https://oldproject.com",
+      "icon": "archive",
+      "active": false
+    }
+  ]
+}
